@@ -1,0 +1,23 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "first npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(test)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antwakhub/np.git"
+  },
+  "keywords": [
+    "antwak",
+    "hub"
+  ],
+  "author": "anthony wakulicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antwakhub/np/issues"
+  },
+  "homepage": "https://github.com/antwakhub/np#readme"
+}
